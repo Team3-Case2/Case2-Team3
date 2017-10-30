@@ -1,0 +1,16 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+.topping {
+	background-color: yellow;
+	width: 100%;
+}
+.examples {
+	margin-top: 5%;
+}
+h2 {
+	margin-top: 1%;
+	background-color: aqua;
+}
